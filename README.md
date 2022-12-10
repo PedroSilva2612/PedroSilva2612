@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroSilva2612
-- 👀 I’m interested in front-end design and Web Develoment...
+- 👀 I’m interested in front-end and Web Design...
 - 🌱 I’m currently learning about JS
 - 📫 How to reach me pedrodesign212@gmail.com or www.pedroportafolio.com
 
